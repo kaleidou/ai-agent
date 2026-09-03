@@ -1,0 +1,6 @@
+Project Aurora is an internal AI project.
+It uses LangGraph for orchestration and Chroma for vector storage.
+The project is scheduled to launch on December 15, 2026.
+
+Project Nova is a multimodal AI research project.
+It focuses on vision-language models and is currently in the prototype stage.
